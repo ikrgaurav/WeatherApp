@@ -1,6 +1,6 @@
-import { Container, CssBaseline } from '@mui/material';
-import { containerStyle } from './theme/customStyles';
-import WeatherBox from './pages/WeatherBox';
+import { Container, CssBaseline } from "@mui/material";
+import { containerStyle } from "./theme/customStyles";
+import WeatherBox from "./pages/WeatherBox";
 
 const App = () => {
   return (
