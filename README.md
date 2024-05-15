@@ -1,6 +1,6 @@
 ## WeatherX | Live Weather - React App
 
-### [Demo Link](https://weatherx-live.netlify.app/) 🔗
+### [Demo Link]() 🔗
 
 Live Weather Searching React App, built with the help of **OpenWeather API**.
 
@@ -11,14 +11,6 @@ Live Weather Searching React App, built with the help of **OpenWeather API**.
 - #### **React JS**
 - #### **OpenWeather API**
 - #### **Material-UI (MUI-5)**
-
-<br/>
-
-## Author:
-
-- **Gulshan Songara** - **[Portfolio Website](https://gulshansongara.netlify.app)**, **[Linkedin](https://www.linkedin.com/in/gulshan-songara/)**
-
-<br/>
 
 ## Available Scripts:
 
@@ -34,4 +26,4 @@ Live Weather Searching React App, built with the help of **OpenWeather API**.
 
 ## License:
 
-This project is licensed under the  **GPL-3.0 License** - see the [LICENSE](LICENSE.md) file for details.
+This project is licensed under the **GPL-3.0 License** - see the [LICENSE](LICENSE.md) file for details.
